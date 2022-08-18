@@ -12,7 +12,7 @@
   👊Independente de qualquer problema, siga em frente de cabeça erguida e confiante, SEMPRE!👊
   <div align="center">
   <a href= "https://www.linkedin.com/in/fabio-henrique-silva-falconeri-reis-072a90229" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>-->
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
   <div align="center">
   <img  border-radius = "30" src="https://media.giphy.com/media/5AGjSNAAbQAkor4AJF/giphy.gif" width="200" height="200" />
